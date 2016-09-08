@@ -1,0 +1,30 @@
+{
+  "name": "optionswap",
+  "version": "1.0.0",
+  "description": "Swap options between to selects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00gm/optionSwap.git"
+  },
+  "keywords": [
+    "jquery",
+    "custom",
+    "select"
+  ],
+  "author": "Raul Gomez Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00gm/optionSwap/issues"
+  },
+  "homepage": "https://github.com/r00gm/optionSwap#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^3.1.0"
+  }
+}
